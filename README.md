@@ -1,74 +1,80 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Challenge Aluraflix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![badge](https://img.shields.io/badge/React-v18-blue) 
+![badge](https://img.shields.io/badge/JavaScript-v10-yellow) 
+![badge](https://img.shields.io/badge/CSS-v3-orange) 
+![badge](https://img.shields.io/badge/HTML-v5-red) 
+![badge](https://img.shields.io/badge/Build-Passing-brightgreen)
+![badge](https://img.shields.io/badge/License-MIT-yellow)
+![badge](https://img.shields.io/badge/Version-1.0-blue)
 
-## Available Scripts
+## 📑 Índice
+- [Descripción del Proyecto](#-descripción-del-proyecto)
+- [Estado del Proyecto](#-estado-del-proyecto)
+- [Demostración de Funciones y Aplicaciones](#-demostración-de-funciones-y-aplicaciones)
+- [Acceso al Proyecto](#-acceso-al-proyecto)
+- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+- [Personas Contribuyentes](#-personas-contribuyentes)
+- [Personas Desarrolladoras del Proyecto](#-personas-desarrolladoras-del-proyecto)
+- [Licencia](#-licencia)
 
-In the project directory, you can run:
 
-### `npm start`
+## 📝 Descripción del Proyecto
+**Challenge Aluraflix** es una plataforma de videos diseñada para listar, registrar, eliminar y actualizar videos de diferentes categorías. Es una solución adaptable a dispositivos desktop, tablet y móviles, desarrollada como parte de un desafío técnico para aplicar conocimientos de React y buenas prácticas de desarrollo frontend.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Estado del Proyecto
+![Project Status](https://img.shields.io/badge/Estado-En_Desarrollo-yellow)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+El proyecto está en fase de desarrollo, pero ya cuenta con las siguientes funcionalidades:
+- Listado de videos por categorías.
+- Registro de nuevos videos con detalles como título, descripción, categoría, etc.
+- Eliminación de videos existentes.
+- Actualización de información de un video.
+- Rediseño adaptable para diferentes tamaños de pantalla (desktop, tablet, móvil).
 
-### `npm test`
+## 💻 Demostración de Funciones y Aplicaciones
+- **Página principal:** Listado de videos organizados por categorías.
+- **Agregar video:** Formulario para registrar nuevos videos en la base de datos.
+- **Editar video:** Modal con campos editables para modificar videos existentes.
+- **Eliminar video:** Botón de acción para eliminar un video específico.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔗 Acceso al Proyecto
+Puedes acceder al código del proyecto en el siguiente repositorio de GitHub:
 
-### `npm run build`
+[Challenge Aluraflix](https://github.com/briggitte12/Challenge-Aluraflix.git)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Clonar el repositorio
+```bash
+git clone https://github.com/briggitte12/Challenge-Aluraflix.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Iniciar el proyecto
+1. Instalar dependencias:
+```bash
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Iniciar el servidor:
+```bash
+npm start
+```
 
-### `npm run eject`
+## 🛠️ Tecnologías Utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **JavaScript**: Lenguaje de programación principal utilizado en el desarrollo del proyecto.
+- **CSS**: Utilizado para los estilos y diseño visual de la aplicación.
+- **HTML**: Estructura básica de la página web.
+- **React**: Librería de JavaScript utilizada para construir la interfaz de usuario dinámica.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🙌 Personas Contribuyentes
+Agradecemos la contribución de todos los desarrolladores que han apoyado el crecimiento de este proyecto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **[Briggitte Martinez Vidaurre](www.linkedin.com/in/briggitte-martinez-isi)**: Desarrolladora principal y encargada del mantenimiento del proyecto.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 👩‍💻 Personas Desarrolladoras del Proyecto
 
-## Learn More
+- **[Briggitte Martinez Vidaurre](https://github.com/briggitte12)**: Desarrolladora que ha implementado las funcionalidades y está llevando el proyecto hacia su finalización.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📜 Licencia
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Challenge-Aluraflix
->>>>>>> 422715f1bec7bd265338fa41b3cc461e33195cb5
+Este proyecto está bajo la **Licencia MIT**. Puedes consultar los detalles en el archivo `LICENSE`.

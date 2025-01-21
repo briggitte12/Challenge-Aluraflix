@@ -23,14 +23,14 @@
 **Challenge Aluraflix** es una plataforma de videos diseñada para listar, registrar, eliminar y actualizar videos de diferentes categorías. Es una solución adaptable a dispositivos desktop, tablet y móviles, desarrollada como parte de un desafío técnico para aplicar conocimientos de React y buenas prácticas de desarrollo frontend.
 
 ## 🚀 Estado del Proyecto
-![Project Status](https://img.shields.io/badge/Estado-En_Desarrollo-yellow)
+![Project Status](https://img.shields.io/badge/Estado-Completado-brightgreen)
 
-El proyecto está en fase de desarrollo, pero ya cuenta con las siguientes funcionalidades:
+El proyecto está completado, por lo cual, cuenta con las siguientes funcionalidades:
 - Listado de videos por categorías.
 - Registro de nuevos videos con detalles como título, descripción, categoría, etc.
 - Eliminación de videos existentes.
 - Actualización de información de un video.
-- Rediseño adaptable para diferentes tamaños de pantalla (desktop, tablet, móvil).
+- Diseño adaptable para diferentes tamaños de pantalla (desktop, tablet, móvil).
 
 ## 💻 Demostración de Funciones y Aplicaciones
 - **Página principal:** Listado de videos organizados por categorías.
